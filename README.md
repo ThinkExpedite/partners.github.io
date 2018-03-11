@@ -18,7 +18,7 @@ hugo new site [site]
 ```
 cd quickstart;\
 git init;\
-git submodule add https://github.com/devcows/hugo-universal-theme.git themes\univeral
+git submodule add https://github.com/devcows/hugo-universal-theme.git themes\hugo-universal-theme
 
 # Edit your config.toml configuration file
 # and add the Universal theme.
