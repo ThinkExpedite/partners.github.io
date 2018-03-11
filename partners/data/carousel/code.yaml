@@ -1,0 +1,10 @@
+weight: 3
+title: "Software we are proud of"
+description: >
+  <ul class="list-style-none">
+    <li>Programming languages including .NET/NodeJS</li>
+    <li>Azure/AWS stack development</li>
+    <li>Event driven architectures</li>
+    <li>...</li>
+  </ul>
+image: "img/carousel/template-easy-code.png"

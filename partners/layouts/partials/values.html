@@ -1,0 +1,71 @@
+{{ if isset .Site.Params "values" }}
+{{ if .Site.Params.values.enable }}
+<section class="bar background-white no-mb no-mb">
+    <div class="container">
+
+        <div class="col-md-12">
+            <div class="heading text-center">
+                <h2>{{ .Site.Params.values.title }}</h2>
+            </div>
+
+            <p class="lead">
+              {{ .Site.Params.values.subtitle | markdownify }}
+            </p>
+
+        </div>
+       
+        <div class="col-md-12">
+            <div class="col-md-6 text-center">
+                
+                <div class="panel panel-default sidebar-menu ">
+
+                    <div class="panel-heading">
+                        <h4 class="panel-title">What we ALWAYS do</h4>
+                    </div>
+                
+                    <div class="panel-body">
+                        <ul class="nav nav-stacked">
+                            <li>Listen</li>
+                            <li>Be Open and transparent about what we are doing</li>
+                            <li>Communicate good and bad news</li>
+                            <li>Work collaboratively</li>
+                            <li>Deliver software we are proud of</li>
+                            <li>Work in small,dedicated teams</li>
+                            <li>Understand problem before creating solution</li>
+                            <li>meet our requirements</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 text-center">
+                
+                <div class="panel panel-default sidebar-menu">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">What we NEVER do</h4>
+                    </div>
+                
+                    <div class="panel-body">
+                            <ul class="nav nav-stacked">
+                                
+                                <li>Ignore constructive customer feedback or ideas</li>
+                                <li>Accept bad behaviour or practice from a client</li>
+                                <li>Site team in client office</li>
+                                <li>Have a mixed team of client and our developers sharing work</li>
+                                <li>Do low quality work</li>
+                                <li>Commit to work we don't think is achievable</li>
+                                
+                                
+                            </ul>
+                        </div>
+                </div>
+                
+                </div>
+           </div>
+        </div>       
+
+    </div>
+<!-- /.container -->
+</section>
+<!-- /.bar -->
+{{ end }}
+{{ end }}
