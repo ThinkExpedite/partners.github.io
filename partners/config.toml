@@ -1,4 +1,4 @@
-baseurl = "https://thinkexpedite.github.io/partners.github.io/"
+baseurl = "http://example.com"
 title = "G.B.R Consulting"
 languageCode = "en-us"
 theme="hugo-universal-theme"
@@ -56,7 +56,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:your@email.com"
+    url = "mailto:jon@thinkexpedite.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
@@ -66,7 +66,7 @@ paginate = 10
     defaultDescription = "Site powered by GBR using Hugo CMS"
 
     # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = ""
+    googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
@@ -84,7 +84,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "infot@COMPANY.com"
+    email = "jon@thinkexpedite.com"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
     copyright = "Copyright (c) 2018, YourCompany; all rights reserved."

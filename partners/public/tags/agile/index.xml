@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agile on </title>
+    <link>http://gbr.thinkexpedite.com/tags/agile/</link>
+    <description>Recent content in Agile on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 03 Mar 2018 09:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://gbr.thinkexpedite.com/tags/agile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optimal Team Size and Why Small Teams</title>
+      <link>http://gbr.thinkexpedite.com/blog/optimal-team-size-and-why-small-teams/</link>
+      <pubDate>Sat, 03 Mar 2018 09:00:00 +0000</pubDate>
+      
+      <guid>http://gbr.thinkexpedite.com/blog/optimal-team-size-and-why-small-teams/</guid>
+      <description>Optimal team size and why small teams are better Over the years I&amp;rsquo;ve worked on lots of teams. Some good, and some not so. But what is it that makes a team successful?
+There are the obvious things like the kind of people you have on the team. If the team members just don&amp;rsquo;t get on, they don&amp;rsquo;t have the skills required to do the job or they just aren&amp;rsquo;t interested in working hard then it&amp;rsquo;s clear the team will suffer.</description>
+    </item>
+    
+  </channel>
+</rss>
