@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseurl = "https://thinkexpedite.github.io/partners.github.io/partners/docs/"
 title = "G.B.R Consulting"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
