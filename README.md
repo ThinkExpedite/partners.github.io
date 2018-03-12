@@ -1,10 +1,10 @@
 ## Using Hugo
 
-####1  Install Hugo
+#### 1  Install Hugo
 
 If you haven't already done so click here for [intial setup](/SETUP.md) of Hugo.
 
-####2  Add a Post
+#### 2  Add a Post
 ```
 hugo new posts/my-first-post.md
 ```
@@ -17,7 +17,7 @@ Edit the newly created content file if you want. Now, start the Hugo server with
 
 Navigate to your new site at http://localhost:1313/.
 
-####4  Publishing changes to Github pages 
+#### 3  Publishing changes to Github pages 
 
 Read here for guide : [Deployment of project pages from /docs folder on master branch](https://gohugo.io/hosting-and-deployment/hosting-on-github/#deployment-of-project-pages-from-docs-folder-on-master-branch)
 
