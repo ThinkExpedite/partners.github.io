@@ -1,6 +1,6 @@
 ## Initial Setup
 
-####1  Install Hugo
+#### 1  Install Hugo
 
 For more information read the official [setup guide](https://gohugo.io/overview/installing/) of Hugo.
 
@@ -10,11 +10,11 @@ hugo version
 ```
 Go to the directory where you have your Hugo site and run:
 
-####2  Create new site
+#### 2  Create new site
 ```
 hugo new site [site]
 ```
-####3  Add a theme
+#### 3  Add a theme
 ```
 cd quickstart;\
 git init;\
