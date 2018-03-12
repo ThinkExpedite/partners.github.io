@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on G.B.R Consulting</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://thinkexpedite.github.io/partners.github.io/categories/</link>
     <description>Recent content in Categories on G.B.R Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thinkexpedite.github.io/partners.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Planning</title>
-      <link>http://localhost:1313/categories/planning/</link>
+      <link>https://thinkexpedite.github.io/partners.github.io/categories/planning/</link>
       <pubDate>Sat, 03 Mar 2018 09:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/planning/</guid>
+      <guid>https://thinkexpedite.github.io/partners.github.io/categories/planning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>http://localhost:1313/categories/programming/</link>
+      <link>https://thinkexpedite.github.io/partners.github.io/categories/programming/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>http://localhost:1313/categories/programming/</guid>
+      <guid>https://thinkexpedite.github.io/partners.github.io/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pseudo</title>
-      <link>http://localhost:1313/categories/pseudo/</link>
+      <link>https://thinkexpedite.github.io/partners.github.io/categories/pseudo/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://localhost:1313/categories/pseudo/</guid>
+      <guid>https://thinkexpedite.github.io/partners.github.io/categories/pseudo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Starting</title>
-      <link>http://localhost:1313/categories/starting/</link>
+      <link>https://thinkexpedite.github.io/partners.github.io/categories/starting/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>http://localhost:1313/categories/starting/</guid>
+      <guid>https://thinkexpedite.github.io/partners.github.io/categories/starting/</guid>
       <description></description>
     </item>
     
