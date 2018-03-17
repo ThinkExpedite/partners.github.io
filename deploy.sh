@@ -11,9 +11,7 @@ rm -rf partners/public
 cd partners
 hugo server -b http://gbr.thinkexpedite.com/ --appendPort=false --renderToDisk
 
-echo -e "\033[0;33m make your changes and press any key to resume deployment...\033[0m"
-
-read resume
+cp CNAME ../docs
 
 cd ..
 
