@@ -1,4 +1,4 @@
-baseurl = "http://example.com"
+baseurl = "https://example.com"
 title = "Elastic Mint"
 languageCode = "en-us"
 theme="hugo-universal-theme"
