@@ -1148,6 +1148,7 @@ fieldset[disabled] .btn-template-primary.active {
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
+  clip-path: polygon(0 5%, 100% 0, 100% 95%, 0 100%);
 }
 .home-carousel .dark-mask {
   position: absolute;
@@ -1155,7 +1156,7 @@ fieldset[disabled] .btn-template-primary.active {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #38a7bb;
+  background: #72e2bb;
   opacity: 0.9;
   filter: alpha(opacity=90);
 }
@@ -1753,6 +1754,7 @@ fieldset[disabled] .btn-template-primary.active {
   position: relative;
   background: #38a7bb;
   padding: 60px 0;
+  clip-path:polygon(0 5%, 100% 0, 100% 95%, 0 100%); 
 }
 .bar.background-pentagon {
   background: url('../img/texture-bw.png') center center repeat;
@@ -1766,7 +1768,8 @@ fieldset[disabled] .btn-template-primary.active {
   background: #555555;
 }
 .bar.background-white {
-  background: #fff;
+  background: #fff;   
+  
 }
 .bar.background-image-fixed-1 {
   background: url('../img/fixed-background-1.jpg') center top no-repeat;
@@ -2508,6 +2511,7 @@ fieldset[disabled] .btn-template-primary.active {
   background: #555555;
   padding: 50px 0;
   color: #999999;
+  clip-path:polygon(0 5%, 100% 0, 100% 100%, 0 100%); 
 }
 #footer h1,
 #footer h2,

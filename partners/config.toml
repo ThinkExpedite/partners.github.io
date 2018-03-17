@@ -1,5 +1,5 @@
 baseurl = "http://example.com"
-title = "G.B.R Consulting"
+title = "Elastic Mint"
 languageCode = "en-us"
 theme="hugo-universal-theme"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -63,7 +63,7 @@ paginate = 10
     viewMorePostLink = "/blog/"
     author = "GBR"
     defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site powered by GBR using Hugo CMS"
+    defaultDescription = "Site powered by Elastic Mint using Hugo CMS"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCHysmrMKbu76mbHEktN3dztD6BpYJMV3Y"
@@ -87,13 +87,13 @@ paginate = 10
     email = "jon@thinkexpedite.com"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2018, YourCompany; all rights reserved."
+    copyright = "Copyright (c) 2018, Elastic Mint Ltd; all rights reserved."
 
     # Format dates with Go's time formatting
-    date_format = "January 2, 2018"
+    date_format = "Jan _2 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>**COMPANY**.</strong>
+    address = """<p><strong>Elastic Mint</strong>
         <br>Bristol & Bath Science Park
         <br>Dirac Crescent
         <br>Emersons Green, Bristol 
@@ -111,7 +111,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +44 0777 932 XXXX or info@company.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us on +44 0777 932 XXXX or info@elasticmint.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>

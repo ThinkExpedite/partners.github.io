@@ -1,13 +1,12 @@
 +++
-title = "Optimal Team Size and Why Small Teams"
-date = "2018-03-03T09:00:00Z"
+title = "Optimal Team Size and Why Small Teams are better"
+date = "2018-03-03T09:00:00+00:00"
 tags = ["agile", "project", "planning"]
 categories = ["planning"]
 banner = "img/banners/banner-6.jpg"
 author = "Andy Garner"
 +++
 
-Optimal team size and why small teams are better
 Over the years I've worked on lots of teams. Some good, and some not so. But what is it that makes a team successful?
 
 There are the obvious things like the kind of people you have on the team. If the team members just don't get on, they don't have the skills required to do the job or they just aren't interested in working hard then it's clear the team will suffer.
