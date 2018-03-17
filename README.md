@@ -4,7 +4,7 @@
 
 If you haven't already done so click here for [intial setup](/SETUP.md) of Hugo.
 
-#### 2  Add a Post
+#### 2  Add a new Post
 ```
 hugo new posts/my-first-post.md
 ```
@@ -23,8 +23,8 @@ Read here for guide : [Deployment of project pages from /docs folder on master b
 
 ```
 cd partners  
-hugo server -b http://gbr.thinkexpedite.com/ --appendPort=false --renderToDisk
+hugo server -b https://gbr.thinkexpedite.com/ --appendPort=false --renderToDisk
 ```
-This will publish static content to /docs/ folder. Push these changes to master and redirect to http://gbr.thinkexpedite.com
+This will publish static content to /docs/ folder. Push these changes to master and redirect to https://gbr.thinkexpedite.com
 
 
