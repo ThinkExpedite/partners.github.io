@@ -31,9 +31,9 @@
 
   <!-- Theme stylesheet, if possible do not edit this stylesheet -->
   {{ if and (isset .Site.Params "style") .Site.Params.style }}
-    <link href="css/style.{{ .Site.Params.style }}.css" rel="stylesheet" id="theme-stylesheet">
+    <link href="{{ .Site.BaseURL }}css/style.{{ .Site.Params.style }}.css" rel="stylesheet" id="theme-stylesheet">
   {{ else }}
-    <link href="css/style.default.css" rel="stylesheet" id="theme-stylesheet">
+    <link href="{{ .Site.BaseURL }}css/style.default.css" rel="stylesheet" id="theme-stylesheet">
   {{ end }}
 
 
