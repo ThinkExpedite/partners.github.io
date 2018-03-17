@@ -9,7 +9,7 @@ rm -rf docs
 rm -rf partners/public
 
 cd partners
-hugo server -b http://gbr.thinkexpedite.com/ --appendPort=false --renderToDisk
+hugo server -b https://gbr.thinkexpedite.com/ --appendPort=false --renderToDisk
 
 cp CNAME ../docs
 
