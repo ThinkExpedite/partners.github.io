@@ -1,6 +1,6 @@
 +++
 title =  "Our Story"
-description = "How Elastic Mint came about"
+description = "How Elastic Mint came into being"
 keywords = ["about","our","story","elastic mint", "andy garner", "jon reynolds", "gordon barrs"]
 +++
 
