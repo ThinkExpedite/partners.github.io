@@ -4,9 +4,9 @@
         {{ if isset .Site.Params "about_us" }}
         <div class="col-md-4 col-sm-6">
             <h4>{{ i18n "aboutUs" }}</h4>
-
-            {{ .Site.Params.about_us | markdownify }}
-
+            <a href="{{.Site.Params.ourstory.link_url}}">
+                    {{ .Site.Params.about_us | markdownify }}
+            </a>
             <hr class="hidden-md hidden-lg hidden-sm">
 
         </div>

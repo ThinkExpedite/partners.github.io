@@ -86,7 +86,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "jon@thinkexpedite.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "Our Story"
     copyright = "Copyright (c) 2018, Elastic Mint Ltd; all rights reserved."
 
     # Format dates with Go's time formatting
