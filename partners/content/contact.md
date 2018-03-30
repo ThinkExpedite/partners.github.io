@@ -3,8 +3,7 @@ title = "Contact"
 id = "contact"
 +++
 
-# We are here to help you
+## It's good to talk
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+#### Get in touch to talk about how we can with your software development.
 
-Please feel free to contact us by the channels listed.

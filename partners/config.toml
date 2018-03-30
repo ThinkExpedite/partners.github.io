@@ -62,7 +62,7 @@ paginate = 10
 [params]
     viewMorePostLink = "/blog/"
     author = "GBR"
-    defaultKeywords = ["devows", "hugo", "go"]
+    defaultKeywords = ["Elastic Mint", "hugo", "go"]
     defaultDescription = "Site powered by Elastic Mint using Hugo CMS"
 
     # Google Maps API key (if not set will default to not passing a key.)
@@ -181,5 +181,5 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    subtitle = ""
 
