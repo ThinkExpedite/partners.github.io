@@ -131,11 +131,9 @@ paginate = 10
 
 [params.ourstory]
     enable = true
-    title = "Our story"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
-    content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus."
+    title = "Our Story"    
     link_url = "/ourstory"
-    link_text = "read about how Elastic Mint came into being"
+    link_text = "Read about how Elastic Mint came into being"
 
 [params.values]
     enable = true

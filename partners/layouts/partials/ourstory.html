@@ -8,12 +8,11 @@
                 <h2>{{ .Site.Params.ourstory.title }}</h2>
             </div>
 
-            <p class="lead">
-              {{ .Site.Params.ourstory.subtitle | markdownify }}
-            </p>
-
-            <p class="lead">
-                {{ .Site.Params.ourstory.content | markdownify }}
+            <p class="lead text-center">
+                <a href="{{.Site.Params.ourstory.link_url}}">
+                    {{ .Site.Params.ourstory.link_text}}
+                </a>
+                
             </p>
 
         </div>
