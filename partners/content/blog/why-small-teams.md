@@ -1,5 +1,5 @@
 +++
-title = "Optimal Team Size and Why Small Teams are better"
+title = "Why we think smaller teams are better"
 date = "2018-03-03T09:00:00+00:00"
 tags = ["agile", "project", "planning"]
 categories = ["planning"]
@@ -9,7 +9,7 @@ author = "Andy Garner"
 
 Over the years I've worked on lots of teams. Some good, and some not so. But what is it that makes a team successful?
 
-There are the obvious things like the kind of people you have on the team. If the team members just don't get on, they don't have the skills required to do the job or they just aren't interested in working hard then it's clear the team will suffer.
+There are the obvious things like the kind of people you have on the team. If the team members just don't get on, if they don't have the skills required to do the job, or they just aren't interested in working hard then it's clear the team will suffer.
 
 However, simply having team chemistry and high performers doesn't guarantee success either.
 
@@ -17,9 +17,7 @@ One of the best teams I ever worked on was made up of 5 developers and the devel
 
 Even though we worked remotely a lot of the time we actually had really good lines of communication between us. Our morning standup was often conducted over Skype. We used messaging all day sending silly comments round while we worked. Mixed in with these comments were useful things which we all needed to know. We had a shared vision for the product we were working on, because we were all able to attend requirements sessions. We had a room where only we worked, we planned our sprints together, we had a weekly team lunch, and we complained about the same things. I'm sure to outsiders we must have seemed like an unfriendly clique, but as a team we were effective.
 
-If there had been fewer of us then it would have been hard to get the work done. We had goals and deadlines just like other teams. If there had been more of us then it would have been much harder for everyone to feel involved in the various team activities. 
-
-Quiet people tend not to contribute in meetings with 10 or 15 others, but in a group of 5 or 6 it's much harder to overlook them and they usually feel more able to contribute. In a small group everyone's opinion really does matter. 
+If there had been more of us then it would have been much harder for everyone to feel involved in the various team activities. Quiet people tend not to contribute in meetings with 10 or 15 others, but in a group of, let's say, fewer than 6 it's much harder to overlook them and they usually feel more able to contribute. In a small group everyone's opinion really does matter. 
 
 Large groups often naturally split into sub-groups based on things that different people have in common, whereas in a small group even people who wouldn't naturally go together do so. The different perspectives and occasional conflicts benefit the team as a whole as they can't help but come to the fore.
 
