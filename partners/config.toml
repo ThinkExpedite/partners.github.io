@@ -138,12 +138,14 @@ paginate = 10
 [params.values]
     enable = true
     title = "Our Values"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    subtitle = ""
+    link_url = "/values"
+    link_text = "Read about how our values shape the way we work"
 
 [params.bios]
     enable = true
     title = "Who are we?"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    subtitle = ""
 
 
 [params.features]

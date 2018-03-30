@@ -3,28 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gbr.thinkexpedite.com/blog/2018/03/03/optimal-team-size-and-why-small-teams/</loc>
+    <loc>https://gbr.thinkexpedite.com/blog/optimal-team-size-and-why-small-teams/</loc>
     <lastmod>2018-03-03T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gbr.thinkexpedite.com/blog/2015/10/02/linked-post/</loc>
+    <loc>https://gbr.thinkexpedite.com/blog/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gbr.thinkexpedite.com/blog/2015/09/17/go-is-for-lovers/</loc>
+    <loc>https://gbr.thinkexpedite.com/blog/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gbr.thinkexpedite.com/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <loc>https://gbr.thinkexpedite.com/blog/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gbr.thinkexpedite.com/blog/2015/06/24/creating-a-new-theme/</loc>
+    <loc>https://gbr.thinkexpedite.com/blog/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gbr.thinkexpedite.com/</loc>
+    <lastmod>2018-03-03T09:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -46,12 +52,6 @@
   
   <url>
     <loc>https://gbr.thinkexpedite.com/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gbr.thinkexpedite.com/</loc>
-    <lastmod>2018-03-03T09:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
