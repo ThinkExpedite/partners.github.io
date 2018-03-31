@@ -4,12 +4,12 @@
 
 <section class="bar background-gray no-mb">
         <div class="container">
-    
+
             <div class="col-md-12">
                 <div class="heading text-center">
                     <h2>{{ .Site.Params.bios.title }}</h2>
                 </div>
-    
+
                 <p class="lead">
                   {{ .Site.Params.bios.subtitle | markdownify }}
                 </p>
@@ -23,11 +23,14 @@
                         <div class="image">
                             <img src="{{ $element.photo }}"></i>
                         </div>
-                    </div> 
+                    </div>
                     <div class="col-md-8">
-                        <h4>{{ $element.name }} - {{ $element.position }}</h4> 
+                        <h4>{{ $element.name }} - {{ $element.position }}</h4>
                         <p>{{ $element.description | markdownify }}</p>
                         <div class="social">
+                            {{ if $element.linkedin }}
+                            <a href="{{ $element.linkedin }}" target="_blank" style="opacity: 1;"><i class='fa fa-2x fa-linkedin'></i></a>
+                            {{ end }}
                             {{ if $element.github }}
                                 <a href="{{ $element.github }}" target="_blank" style="opacity: 1;"><i class='fa fa-2x fa-github'></i></a>
                             {{ end }}
@@ -37,7 +40,7 @@
                             {{ if $element.email }}
                             <a href="mailto:{{ $element.email }}" target="_blank" style="opacity: 1;"><i class='fa fa-2x fa-envelope'></i></a>
                             {{ end }}
-                                                  
+
                         </div>
                     </div>
                 </div>
