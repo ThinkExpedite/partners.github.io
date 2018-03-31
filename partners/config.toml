@@ -134,6 +134,8 @@ paginate = 10
     title = "Our Story"
     link_url = "/ourstory"
     link_text = "Read about how Elastic Mint came into being"
+    synopsis = "Andy, Jon and Gordon are software developers who enjoy developing good quality software. These group of individuals have worked together, have been through the phases of forming, storming and norming, and have now come together as a partnership to provide a pop-up team of software development specialists who can perform."
+
 
 [params.values]
     enable = true
