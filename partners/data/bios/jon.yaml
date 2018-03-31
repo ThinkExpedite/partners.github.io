@@ -1,4 +1,4 @@
-weight: 1
+weight: 2
 name: "Jon Reynolds"
 position: "Partner"
 description: >
@@ -7,3 +7,4 @@ photo: "img/bios/anon.jpg"
 github : "https://github.com/thinkexpedite"
 twitter: "http://twitter.com/jonreynolds"
 email :  "jon@thinkexpedite.com"
+linkedin: "https://www.linkedin.com/in/expedite/"

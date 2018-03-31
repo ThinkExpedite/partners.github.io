@@ -1,6 +1,6 @@
 ## Initial Setup
 
-#### 1  Install Hugo
+### 1  Install Hugo
 
 For more information read the official [setup guide](https://gohugo.io/overview/installing/) of Hugo.
 
@@ -8,15 +8,39 @@ Verify your hugo install:
 ```
 hugo version
 ```
-Go to the directory where you have your Hugo site and run:
 
-#### 2  Create new site
+### 2a Run this site
+
+In this section `[site]` is the location of this repository on your machine.
+
+For example, if you cloned this repository to the root of your `D:` drive then
+your repository root would be `D:\partners.github.io`.
+
+`[site]` would refer to `D:\partners.github.io\partners`
+
+To run this site on your machine:
+
+```
+cd [site]
+```
+
+```
+ hugo server -D
+```
+
+Navigate to your new site at [http://localhost:1313/](http://localhost:1313/).
+
+That's it. You're done.
+
+### 2b  Create new site
+
 ```
 hugo new site [site]
 ```
-#### 3  Add a theme
+#### Add a theme
+
 ```
-cd quickstart;\
+cd [site]
 git init;\
 git submodule add https://github.com/devcows/hugo-universal-theme.git themes\hugo-universal-theme
 
@@ -25,4 +49,10 @@ git submodule add https://github.com/devcows/hugo-universal-theme.git themes\hug
 echo 'theme = "Universal"' >> config.toml
 ```
 
+```
+ hugo server -D
+```
 
+Navigate to your new site at [http://localhost:1313/](http://localhost:1313/).
+
+That's it. You're done.

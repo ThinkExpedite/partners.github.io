@@ -1,11 +1,11 @@
-baseurl = "http://example.com"
-title = "G.B.R Consulting"
-languageCode = "en-us"
+baseurl = "https://example.com"
+title = "Elastic Mint"
+languageCode = "en-gb"
 theme="hugo-universal-theme"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 publishdir = "../docs"
@@ -22,11 +22,11 @@ paginate = 10
     url  = "/blog/"
     weight = 1
 
-[[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
-    weight = 2
+# [[menu.main]]
+#     name = "FAQ"
+#     identifier = "faq"
+#     url  = "/faq/"
+#     weight = 2
 
 [[menu.main]]
     name = "Contact"
@@ -62,8 +62,8 @@ paginate = 10
 [params]
     viewMorePostLink = "/blog/"
     author = "GBR"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site powered by GBR using Hugo CMS"
+    defaultKeywords = ["Elastic Mint", "hugo", "go"]
+    defaultDescription = "Site powered by Elastic Mint using Hugo CMS"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCHysmrMKbu76mbHEktN3dztD6BpYJMV3Y"
@@ -86,17 +86,17 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "jon@thinkexpedite.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2018, YourCompany; all rights reserved."
+    about_us = "Our Story"
+    copyright = "Copyright (c) 2018, Elastic Mint Ltd; all rights reserved."
 
     # Format dates with Go's time formatting
-    date_format = "January 2, 2018"
+    date_format = "Jan _2 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>**COMPANY**.</strong>
+    address = """<p><strong>Elastic Mint</strong>
         <br>Bristol & Bath Science Park
         <br>Dirac Crescent
-        <br>Emersons Green, Bristol 
+        <br>Emersons Green, Bristol
         <br>BS16 7FR
         <br>
         <strong>UK</strong>
@@ -111,7 +111,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +44 0777 932 XXXX or info@company.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us on +44 0777 932 XXXX or info@elasticmint.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
@@ -131,20 +131,23 @@ paginate = 10
 
 [params.ourstory]
     enable = true
-    title = "Our story"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
-    content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus."
+    title = "Our Story"
+    link_url = "/ourstory"
+    link_text = "Read about how Elastic Mint came into being"
+    synopsis = "Andy, Jon and Gordon are software developers who enjoy developing good quality software. These group of individuals have worked together, have been through the phases of forming, storming and norming, and have now come together as a partnership to provide a pop-up team of software development specialists who can perform."
 
 
 [params.values]
     enable = true
     title = "Our Values"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    subtitle = ""
+    link_url = "/values"
+    link_text = "Read about how our values shape the way we work"
 
 [params.bios]
     enable = true
     title = "Who are we?"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    subtitle = ""
 
 
 [params.features]
@@ -180,5 +183,5 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    subtitle = ""
 
