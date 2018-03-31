@@ -5,7 +5,7 @@
     <link>https://gbr.thinkexpedite.com/</link>
     <description>Recent content on Elastic Mint</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-gb</language>
     <lastBuildDate>Sat, 03 Mar 2018 09:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gbr.thinkexpedite.com/index.xml" rel="self" type="application/rss+xml" />
@@ -66,15 +66,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://gbr.thinkexpedite.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gbr.thinkexpedite.com/contact/</guid>
-      <description> It&amp;rsquo;s good to talk Get in touch to talk about how we can with your software development. </description>
-    </item>
-    
-    <item>
       <title>FAQ</title>
       <link>https://gbr.thinkexpedite.com/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -100,6 +91,15 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       
       <guid>https://gbr.thinkexpedite.com/values/</guid>
       <description>You might recognise our values. When we came together as a partnership one of the first things we did was to list all the things we would always do and all the things we would never do. For example, some of things that appeared in the &amp;lsquo;always do&amp;rsquo; list are be open and transparent about what we do, communicate both good and bad news, work collaboratively and deliver software we are proud of.</description>
+    </item>
+    
+    <item>
+      <title>Ready to start?</title>
+      <link>https://gbr.thinkexpedite.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gbr.thinkexpedite.com/contact/</guid>
+      <description>As always, the best way to start is with a conversation.  Send us your details and let&#39;s start talking!  </description>
     </item>
     
   </channel>

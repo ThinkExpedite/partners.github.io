@@ -1,11 +1,11 @@
 baseurl = "https://example.com"
 title = "Elastic Mint"
-languageCode = "en-us"
+languageCode = "en-gb"
 theme="hugo-universal-theme"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 publishdir = "../docs"
@@ -96,7 +96,7 @@ paginate = 10
     address = """<p><strong>Elastic Mint</strong>
         <br>Bristol & Bath Science Park
         <br>Dirac Crescent
-        <br>Emersons Green, Bristol 
+        <br>Emersons Green, Bristol
         <br>BS16 7FR
         <br>
         <strong>UK</strong>
@@ -131,7 +131,7 @@ paginate = 10
 
 [params.ourstory]
     enable = true
-    title = "Our Story"    
+    title = "Our Story"
     link_url = "/ourstory"
     link_text = "Read about how Elastic Mint came into being"
 

@@ -1,9 +1,8 @@
 +++
-title = "Contact"
+title = "Ready to start?"
 id = "contact"
 +++
-
-## It's good to talk
-
-#### Get in touch to talk about how we can with your software development.
-
+<div class="panel-heading text-center">
+As always, the best way to start is with a conversation. <br/>
+Send us your details and let's start talking!
+</div>
