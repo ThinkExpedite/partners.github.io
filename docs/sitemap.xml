@@ -81,25 +81,25 @@
   </url>
   
   <url>
-    <loc>https://gbr.thinkexpedite.com/tags/planning/</loc>
-    <lastmod>2018-03-03T09:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://gbr.thinkexpedite.com/categories/planning/</loc>
     <lastmod>2018-03-03T09:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://gbr.thinkexpedite.com/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://gbr.thinkexpedite.com/tags/planning/</loc>
+    <lastmod>2018-03-03T09:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gbr.thinkexpedite.com/categories/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gbr.thinkexpedite.com/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
