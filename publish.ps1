@@ -3,7 +3,7 @@ param (
 )
 Get-ChildItem . -r docs | Remove-Item -r -force
 Set-Location partners
-hugo server -b http://gbr.thinkexpedite.com/ --appendPort=false --renderToDisk
+hugo server -b https://gbr.thinkexpedite.com/ --appendPort=false --renderToDisk
 Set-Location ..
 
 git add .
