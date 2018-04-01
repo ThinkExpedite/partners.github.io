@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Elastic Mint</title>
-    <link>https://gbr.thinkexpedite.com/tags/</link>
+    <link>http://gbr.thinkexpedite.com/tags/</link>
     <description>Recent content in Tags on Elastic Mint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 30 Mar 2018 15:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://gbr.thinkexpedite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://gbr.thinkexpedite.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Agile</title>
-      <link>https://gbr.thinkexpedite.com/tags/agile/</link>
+      <link>http://gbr.thinkexpedite.com/tags/agile/</link>
       <pubDate>Fri, 30 Mar 2018 15:00:00 +0000</pubDate>
       
-      <guid>https://gbr.thinkexpedite.com/tags/agile/</guid>
+      <guid>http://gbr.thinkexpedite.com/tags/agile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Planning</title>
-      <link>https://gbr.thinkexpedite.com/tags/planning/</link>
+      <link>http://gbr.thinkexpedite.com/tags/planning/</link>
       <pubDate>Fri, 30 Mar 2018 15:00:00 +0000</pubDate>
       
-      <guid>https://gbr.thinkexpedite.com/tags/planning/</guid>
+      <guid>http://gbr.thinkexpedite.com/tags/planning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project</title>
-      <link>https://gbr.thinkexpedite.com/tags/project/</link>
+      <link>http://gbr.thinkexpedite.com/tags/project/</link>
       <pubDate>Fri, 30 Mar 2018 15:00:00 +0000</pubDate>
       
-      <guid>https://gbr.thinkexpedite.com/tags/project/</guid>
+      <guid>http://gbr.thinkexpedite.com/tags/project/</guid>
       <description></description>
     </item>
     
